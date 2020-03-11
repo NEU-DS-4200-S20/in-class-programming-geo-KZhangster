@@ -1,3 +1,5 @@
+github pages: https://neu-ds-4200-s20.github.io/in-class-programming-geo-KZhangster/
+
 # D3.js - animated U.S. states border map
 
 This is a step-by-step tutorial adapted from a tutorial made for [Maptime Amsterdam](http://maptime-ams.github.io/)'s [fourth Meetup](http://www.meetup.com/Maptime-AMS/events/220184135/), on February 18th, 2015.
